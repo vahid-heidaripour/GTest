@@ -12,6 +12,7 @@ namespace
 {
     class ClassDeclaration : public testing::Test
     {
+    public:
         ClassTest obj;
         ClassDeclaration()
         {
