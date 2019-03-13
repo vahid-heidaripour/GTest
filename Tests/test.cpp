@@ -23,11 +23,13 @@ namespace
 
 TEST_F(ClassDeclaration, test1)
 {
-    ASSERT_EQ("", "");
+    obj.setNumber(50);
+    ASSERT_EQ(50, obj.getNumber());
 }
 
 TEST_F(ClassDeclaration, test2)
 {
-    ASSERT_EQ("", "1");
+    obj.setNumber(100);
+    ASSERT_THAT(100, testing::Eq(obj.getNumber()));
 }
 

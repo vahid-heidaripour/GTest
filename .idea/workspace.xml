@@ -16,7 +16,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b8039fe-32bf-4526-aa59-666e697bc627" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Tests/ClassTest.h" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/ClassTest.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/test.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/test.cpp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -51,7 +51,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Tests/ClassTest.h">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="247">
@@ -60,11 +60,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Tests/test.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="429">
-              <caret line="33" selection-start-line="33" selection-end-line="33" />
+            <state relative-caret-position="455">
+              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
               <folding>
                 <element signature="e#54#78#0" expanded="true" />
               </folding>
@@ -101,8 +101,8 @@
       <list>
         <option value="$PROJECT_DIR$/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/main.cpp" />
-        <option value="$PROJECT_DIR$/Tests/test.cpp" />
         <option value="$PROJECT_DIR$/Tests/ClassTest.h" />
+        <option value="$PROJECT_DIR$/Tests/test.cpp" />
       </list>
     </option>
   </component>
@@ -198,12 +198,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1552494596842</updated>
-      <workItem from="1552494598076" duration="1679000" />
+      <workItem from="1552494598076" duration="1856000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1679000" />
+    <option name="totallyTimeSpent" value="1856000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1680" y="-501" width="1080" height="1897" extended-state="6" />
@@ -252,20 +252,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tests/test.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="429">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
-          <folding>
-            <element signature="e#54#78#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Tests/ClassTest.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
           <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/test.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="455">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <element signature="e#54#78#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
