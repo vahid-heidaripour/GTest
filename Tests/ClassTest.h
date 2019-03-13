@@ -7,7 +7,18 @@
 
 class ClassTest
 {
+public:
+    int number;
 
+    int getNumber() const
+    {
+        return number;
+    }
+
+    void setNumber(int num)
+    {
+        ClassTest::number = num;
+    }
 };
 
 #endif //GTEST_CLASSTEST_H
